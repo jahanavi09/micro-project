@@ -31,7 +31,6 @@ Primary key: Roll No.
 
 
 *Benefits of using JsonPowerDB
-
 -Schemafree
 -Serverless support
 -multimode DB
