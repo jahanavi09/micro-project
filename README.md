@@ -30,3 +30,12 @@ Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
 Primary key: Roll No.
 
 
+Benefits of using JsonPowerDB
+
+Schemafree
+Serverless support
+multimode DB
+Builds PowerIndex
+Webservices API
+Single Instance
+Serverside Native NoSQL
